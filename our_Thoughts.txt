@@ -1,0 +1,7 @@
+#Thought1
+	* Looking to develope a wibesite which will connect village people. It will be a survey based website. Users will provide their
+	 opinion about farming like: for which crop they are looking this seasion, what may be price breakups.
+	 website will have provision to provide information about how much farmable field they are having (should be kept confidential)
+	and also should keep data that which crop is in what percentage in village so that we can analysis future production and rates 
+	 with the help of previous datas
+																			-Devarshi
