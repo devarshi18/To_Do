@@ -1,7 +1,6 @@
 Github account
 
-EMAIL ID: devarshi18121997@gmail.com
-PASSWORD: Dp@18121997@
+
 
 #process to push files to git 
 	1. download git scm and login in browser
