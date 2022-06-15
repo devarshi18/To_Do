@@ -1,0 +1,18 @@
+Github account
+
+EMAIL ID: devarshi18121997@gmail.com
+PASSWORD: Dp@18121997@
+
+#process to push files to git 
+	1. download git scm and login in browser
+	2. check in cmd -> git config --list (to check you have logged in or not)
+	3. create a folder and in cmd set the directory to that folder
+	4. in cmd -> git clone https://github.com/devarshi18/"nameOfRepository".git
+	5. after this process "nameOfRepository" nammed folder will be create in that folder which you created in step 3
+	6. Now set the directory in cmd to "nameOfRepository"
+	7. paste your files in that folder ("nameOfRepository")
+	8. Go to cmd -> git add .
+	9. -> git status
+     10. -> git commit -m "Add description for file"
+     11. -> git push origin main
+     12. refresh browser
